@@ -1,2 +1,0 @@
-### Architettura di un server
-
